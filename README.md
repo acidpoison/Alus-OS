@@ -1,2 +1,5 @@
-# Alus-OS
-john DOE is in your system 2
+# Alus OS
+
+The JD game virtual machine.
+
+Coded in C++ with the [Code::Blocks](http://www.codeblocks.org/) IDE and [Digital Mars C/C++](https://digitalmars.com/download/freecompiler.html) compiler.

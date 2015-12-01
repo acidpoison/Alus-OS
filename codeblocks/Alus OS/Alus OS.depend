@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1438214219 source:c:\users\temp\documents\github\alus-os\alus os\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<fstream>
+
